@@ -4,7 +4,7 @@
  This add-on is a work in progress state
  
   
- ![](https://raw.githubusercontent.com/MatthisPralat/Blender_Pip_Install/master/doc/Pip_module.JPG?token=ACLZFOMFAEWYABYKEDBWGES5WWPYY)
+ ![](http://www.matthispralat.fr/wp-content/uploads/2019/10/Pip_module.jpg)
 
  
  1 - Compare your installed version of python in your cmd path with blender, if it's not, show you a link with where to download-it
