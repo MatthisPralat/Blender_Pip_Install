@@ -15,3 +15,6 @@
  
  4 - simply toogle the console to show you the progression of your installation
  
+ 
+ Go here  http://www.matthispralat.fr/?p=754  to know how to install pip and module manualy (french doc)
+ 
